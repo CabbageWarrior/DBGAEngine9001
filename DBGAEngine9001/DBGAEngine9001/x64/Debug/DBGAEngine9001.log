@@ -1,0 +1,12 @@
+﻿  DBGAEngine9001.cpp
+c:\users\dbga_53\documents\visual studio 2017\projects\dbgaengine9001\dbgaengine9001\dbgaengine9001.cpp(165): warning C4838: conversion from 'int' to 'unsigned int' requires a narrowing conversion
+c:\users\dbga_53\documents\visual studio 2017\projects\dbgaengine9001\dbgaengine9001\dbgaengine9001.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\dbga_53\documents\visual studio 2017\projects\dbgaengine9001\dbgaengine9001\dbgaengine9001.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\dbga_53\documents\visual studio 2017\projects\dbgaengine9001\dbgaengine9001\dbgaengine9001.cpp(178): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\dbga_53\documents\visual studio 2017\projects\dbgaengine9001\dbgaengine9001\dbgaengine9001.cpp(392): warning C4018: '<': signed/unsigned mismatch
+c:\users\dbga_53\documents\visual studio 2017\projects\dbgaengine9001\dbgaengine9001\dbgaengine9001.cpp(415): warning C4018: '<': signed/unsigned mismatch
+c:\users\dbga_53\documents\visual studio 2017\projects\dbgaengine9001\dbgaengine9001\dbgaengine9001.cpp(419): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dbga_53\documents\visual studio 2017\projects\dbgaengine9001\dbgaengine9001\dbgaengine9001.cpp(421): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\dbga_53\documents\visual studio 2017\projects\dbgaengine9001\dbgaengine9001\dbgaengine9001.cpp(422): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+c:\users\dbga_53\documents\visual studio 2017\projects\dbgaengine9001\dbgaengine9001\dbgaengine9001.cpp(423): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+  DBGAEngine9001.vcxproj -> C:\Users\dbga_53\Documents\Visual Studio 2017\Projects\DBGAEngine9001\x64\Debug\DBGAEngine9001.exe
